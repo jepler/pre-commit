@@ -7,3 +7,9 @@
 A framework for managing and maintaining multi-language pre-commit hooks.
 
 For more information see: https://pre-commit.com/
+
+## Frequently asked questions
+
+### Will you please make `pre-commit autoupdate` respect semantic versioning and/or not install prerelease versions?
+
+No.
